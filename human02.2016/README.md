@@ -20,4 +20,4 @@
 
 
 
-![human02](..\README\human02.png)
+![human02](../README/human02.png)
