@@ -4,7 +4,7 @@
 
 **<u>Species</u>**: Human (male, 18 Yr-old, 72 kg
 
-**<u>Imaging</u>**: multi-slice CT imaging of the head and torso (623-μm isotropic resolution, FOV 31.9 × 31.9 × 46.1 cm, i.e., image volume size of 512 × 512 × 739).
+**<u>Imaging</u>**: multi-slice CT imaging of the head and torso.
 
 **<u>Segmentation</u>**: based on intensity thresholding followed by visual validation and repair.
 
