@@ -2,6 +2,10 @@
 
 
 
+[Access STL](https://drive.google.com/file/d/1CxhNb389b_hMd4hZ-GEovwC3JzM-6Da8/view?usp=sharing)
+
+
+
 **<u>Species</u>**: Human (male, 35 Yr-old, 68 kg, 1.70 m tall)
 
 **<u>Imaging</u>**: multi-slice CT imaging of the head and torso (0.5 x 0.7 x 0.7 mm resolution, FOV 36 × 36 × 48 cm, i.e., image volume size of 512 × 512 × 960). 
