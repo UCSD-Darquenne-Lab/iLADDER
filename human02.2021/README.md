@@ -8,9 +8,9 @@
 
 **<u>Segmentation</u>**: based on intensity thresholding followed by visual validation and repair. In Kabilan et al’s study (2016), the larynx was widened from the as-imaged supine breath-hold position to a fully open geometry to mimic inhalation in an upright posture. Additional modifications of the oral cavity, i.e., repositioning surface of the tongue for upright oral breathing and closing off the connection to the esophagus, were made in the model used in Corley et al.’s study (2021). 
 
-**<u>Models</u>**: 1) Oral cavity down to several generations of conducting airways (272 outlets). Model is provided in 5 stl files; 2) Nose down to trachea. Model is provided in 4 stl files.
+**<u>Models</u>**: 1) Oral cavity down to several generations of conducting airways (272 outlets). 2) Nose down to trachea.
 
-**<u>Mesh</u>**: Hybrid prism/polyhedral volume meshes generated in STARCCM+ (Version 8.02 for the nasal breathing model (2.85 million elements) and version 14.04.011 for the oral breathing model (4.88 million elements)). Detailed computational mesh characteristics can be found in Table 1 of Corley et al (2021)
+**<u>Mesh</u>**: Hybrid prism/polyhedral volume meshes generated in STAR-CCM+ (Version 8.02 for the nasal breathing model (2.85 million elements) and version 14.04.011 for the oral breathing model (4.88 million elements)). Detailed computational mesh characteristics can be found in Table 1 of Corley et al (2021)
 
 **<u>Simulation types</u>**: airflow and aerosol transport
 
