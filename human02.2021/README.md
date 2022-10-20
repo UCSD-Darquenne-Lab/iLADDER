@@ -19,5 +19,3 @@
 **<u>Related publications</u>**: Corley et al., 2021 (https://doi.org/10.1093/toxsci/kfab062)
 
 
-
-![human02](../README/human02.png)
