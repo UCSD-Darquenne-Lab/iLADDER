@@ -2,7 +2,7 @@
 
 
 
-**<u>Species</u>**: Human (male, 18 Yr-old, 72 kg
+**<u>Species</u>**: Human (male, 18 Yr-old, 72 kg)
 
 **<u>Imaging</u>**: multi-slice CT imaging of the head and torso.
 
