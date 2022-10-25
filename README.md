@@ -2,6 +2,8 @@
 
 #### **In-silico LADDER: Lung Aerosol Dosimetry for Drug and Environmental Research**
 
+This GitHub repository contains lung models geometries developed and used by the in-silico LADDER team of investigators
+
 **This project is also available on [SimTK](https://simtk.org/projects/insilico_ladder).** 
 
 The development of predictive aerosol dosimetry models has been a major focus of environmental toxicology and pharmaceutical health research for decades. Simplified compartmental and one-dimensional models have been successful in predicting overall deposition but fail to accurately predict local deposition. Computational fluid-particle dynamics (CFPD) has been extensively used to study flow patterns and aerosol transport in idealistic, physiologically realistic and more recently patient-specific models of lung airways. To date, the challenge of predicting the deposition of inhaled aerosols under disease conditions is largely unmet. While 3D CFPD models provide the capability of including subject-specific lung abnormalities resulting from respiratory diseases, they typically only include a sub-region of the lung because of the prohibitive computational costs compared to simplified models.
