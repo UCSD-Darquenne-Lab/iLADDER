@@ -67,4 +67,6 @@ Corley, R. A., Kabilan, S., Kuprat, A. P., Carson, J. P., Minard, K. R., Jacob, 
 
 Corley, R. A., Kuprat, A. P., Suffield, S. R., Kabilan, S., Hinderliter, P. M., Yugulis, K., & Ramanarayanan, T. S. (2021). New Approach Methodology for Assessing Inhalation Risks of a Contact Respiratory Cytotoxicant: Computational Fluid Dynamics-Based Aerosol Dosimetry Modeling for Cross-Species and In Vitro Comparisons. *Toxicological Sciences: An Official Journal of the Society of Toxicology*, *182*(2), 243–259.
 
+Corley, R. A., Minard, K. R., Kabilan, S., Einstein, D. R., Kuprat, A. P., Harkema, J. R., Kimbell, J. S., Gargas, M. L. & Kinzell, J. H. (2009) Magnetic resonance imaging and computational fluid dynamics (CFD) simulations of rabbit nasal airflows for the development of hybrid CFD/PBPK models, *Inhalation Toxicology*, 21:6, 512-518, DOI: 10.1080/08958370802598005 
+ 
 Kabilan, S., Suffield, S. R., Recknagle, K. P., Jacob, R. E., Einstein, D. R., Kuprat, A. P., Carson, J. P., Colby, S. M., Saunders, J. H., Hines, S. A., Teeguarden, J. G., Straub, T. M., Moe, M., Taft, S. C., & Corley, R. A. (2016). Computational fluid dynamics modeling of Bacillus anthracis spore deposition in rabbit and human respiratory airways. *Journal of Aerosol Science*, *99*, 64–77.
