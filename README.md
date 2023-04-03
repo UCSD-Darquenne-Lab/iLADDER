@@ -2,7 +2,7 @@
 
 #### **In-silico LADDER: Lung Aerosol Dosimetry for Drug and Environmental Research**
 
-This GitHub repository contains lung models geometries developed and used by the in-silico LADDER team of investigators
+This GitHub repository contains lung models geometries developed and used by the in-silico LADDER team of investigators. You are welcome to download and use these geometries, but please cite the references associated with the downloaded models.
 
 **This project is also available on [SimTK](https://simtk.org/projects/insilico_ladder).** 
 
