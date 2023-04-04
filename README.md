@@ -1,6 +1,6 @@
 # iLADDER
 
-#### **In-silico LADDER: Lung Aerosol Dosimetry for Drug and Environmental Research**
+#### In-silico LADDER: Lung Aerosol Dosimetry for Drug and Environmental Research
 
 This GitHub repository contains lung models geometries developed and used by the in-silico LADDER team of investigators. You are welcome to download and use these geometries, but please cite the references associated with the downloaded models.
 
@@ -14,15 +14,9 @@ The in-silico LADDER project aims at developing aerosol dosimetry multiscale mod
 
 
 
-<hr>
+## Available Lung Models
 
-
-
-### Available Lung Models
-
-Detailed metadata  and information for each model is available below this table:
-
-
+Detailed metadata and information for each model is available below this table:
 
 | Sample ID and STL                                            | Basic Info                                  | Species | Mesh                                                         | Reference                                                    | Model                                                        |
 | ------------------------------------------------------------ | ------------------------------------------- | ------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -38,9 +32,8 @@ Detailed metadata  and information for each model is available below this table:
 | [rabbit02](https://drive.google.com/file/d/1_38F5TTeXc1NF-xB0qKUnCKb7ghn0fC7/view?usp=share_link) | female,  5-6 months, 4-5 kg                 | Rabbit  | [Yes](https://drive.google.com/file/d/1_38F5TTeXc1NF-xB0qKUnCKb7ghn0fC7/view?usp=share_link) | [Kabilan et al., 2016 ](http://dx.doi.org/10.1016/j.jaerosci.2016.01.011) | ![rabbit02](README/rabbit02.png)                             |
 
 
-### Meta Data
 
-
+## Meta Data
 
 | Sample ID    | Additional Info                                              |
 | ------------ | ------------------------------------------------------------ |
@@ -57,7 +50,7 @@ Detailed metadata  and information for each model is available below this table:
 
 
 
-### References
+## References
 
 Corley, R. A., Kabilan, S., Kuprat, A. P., Carson, J. P., Jacob, R. E., Minard, K. R., Teeguarden, J. G., Timchalk, C., Pipavath, S., Glenny, R., & Einstein, D. R. (2015). Comparative Risks of Aldehyde Constituents in Cigarette Smoke Using Transient Computational Fluid Dynamics/Physiologically Based Pharmacokinetic Models of the Rat and Human Respiratory Tracts. *Toxicological Sciences: An Official Journal of the Society of Toxicology*, *146*(1), 65–88.
 
