@@ -6,4 +6,4 @@
 
 
 
-![human01](..\README\human01.png)
+![human01](../README/human01.png)
