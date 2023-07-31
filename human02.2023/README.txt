@@ -1,12 +1,9 @@
-STLs and Mesh for the '4 Runs Paper', hopefully coming out 2023.
+## Human02.2023
 
-4th_Gen_Entire_V1.stl is the source STL mesh file with no extrusion of
-outlets.  
+Human (male, 35 Yr-old, 68 kg, 1.70 m tall) Imaging: multi-slice CT imaging of the head and torso (0.5 x 0.7 x 0.7 mm resolution, FOV 36 × 36 × 48 cm, i.e., image volume size of 512 × 512 × 960). Segmentation: based on intensity thresholding followed by visual validation and repair. See Kuprat et al. (2021) for detailed description of segmentation.
 
-polyMesh is the OpenFOAM volume mesh which has 12,565,021 cells.  (Mostly hexes and
-tets.)
+Models: Oral cavity down to ~3 generations of conducting airways (11 outlets). Model also include experimental tubing between the particle counter and mouth.
 
-PD01_2022_0.stl is the extracted surface mesh from the volume mesh which has
-extrusion of outlets for stable CFD simulation.  It also has the two lung and one tubing patches.
+Mesh: Hybrid prism/polyhedral volume meshes generated in STAR-CCM+ (~12 million elements).
 
-All have meter scale.
+Simulation parameters: tidal volume = ~1,000ml, flow rates = ~0.3 and ~0.75L/s, particle size: 1and 2.9 µm Simulation types: airflow and aerosol transport Funding: NIEHS U01 ES028669 Related publications: Kuprat et al., 2023
