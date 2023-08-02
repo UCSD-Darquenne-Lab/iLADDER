@@ -14,5 +14,3 @@
 
 ![human02.2023](../README/human02.2023.png)	
 =======
-![human02.2023](../README/human02.2023.png)
->>>>>>> 91a0a214da56b8f11e0806c5a0e5486ae6203d1f
