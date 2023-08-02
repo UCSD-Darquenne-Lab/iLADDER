@@ -6,8 +6,8 @@
 <br/>**<u>Mesh:</u>** Hybrid prism/polyhedral volume meshes generated in STAR-CCM+ (~12 million elements).
 <br/>**<u>Simulation parameters:</u>** tidal volume = ~1,000ml, flow rates = ~0.3 and ~0.75L/s, particle size: 1and 2.9 µm 
 <br/>**<u>Simulation types:</u>** airflow and aerosol transport 
-<u>**Funding:**</u> NIEHS U01 ES028669 
+<br/><u>**Funding:**</u> NIEHS U01 ES028669 
 <br/>**<u>Related publications:</u>** [Kuprat et al., 2023](https://doi.org/10.1016/j.jaerosci.2023.106233)
 
 ![human02.2023](../README/human02.2023.png)	
-=======
+
