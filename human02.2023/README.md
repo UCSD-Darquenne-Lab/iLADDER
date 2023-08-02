@@ -16,4 +16,4 @@
 
 **<u>Related publications:</u>** [Kuprat et al., 2023](https://doi.org/10.1016/j.jaerosci.2023.106233)
 
-![human02.2023](../README/human02.2023.png)
+![human02.2023](../README/human02.2023.png)	
