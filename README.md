@@ -63,3 +63,7 @@ Corley, R. A., Kuprat, A. P., Suffield, S. R., Kabilan, S., Hinderliter, P. M., 
 Corley, R. A., Minard, K. R., Kabilan, S., Einstein, D. R., Kuprat, A. P., Harkema, J. R., Kimbell, J. S., Gargas, M. L. & Kinzell, J. H. (2009) Magnetic resonance imaging and computational fluid dynamics (CFD) simulations of rabbit nasal airflows for the development of hybrid CFD/PBPK models, *Inhalation Toxicology*, 21:6, 512-518.
 
 Kabilan, S., Suffield, S. R., Recknagle, K. P., Jacob, R. E., Einstein, D. R., Kuprat, A. P., Carson, J. P., Colby, S. M., Saunders, J. H., Hines, S. A., Teeguarden, J. G., Straub, T. M., Moe, M., Taft, S. C., & Corley, R. A. (2016). Computational fluid dynamics modeling of Bacillus anthracis spore deposition in rabbit and human respiratory airways. *Journal of Aerosol Science*, *99*, 64–77.
+
+Kuprat, A., M. Jalali, T. Jan, R.A. Corley, B. Asgharian, O. Price, R.K. Singh, S. Colby and C. Darquenne. (2021). Efficient bi-directional coupling of 3D computational fluid-particle dynamics and 1D Multiple Path Particle Dosimetry lung models for multiscale modeling of aerosol dosimetry. *Journal of Aerosol Science*, *151*, 105647.
+
+Kuprat, A., O. Price, B. Asgharian,  R.K. Singh, S. Colby, K. Yugulis, R.A. Corley and C. Darquenne. (2023). Automated bidirectional coupling of multiscale models of aerosol dosimetry: Validation with subject-specific deposition data. *Journal of Aerosol Science*, *174*, 106233.
